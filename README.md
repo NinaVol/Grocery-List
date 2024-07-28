@@ -22,7 +22,7 @@ To add an item to the list, enter its name in the input field and click the "Add
 ## Installation and Setup
 
 ### Clone the repository: 
-git clone [Repository URL]
+git clone [https://github.com/NinaVol/Grocery-List.git]
 
 ### Install dependencies:
 npm install
