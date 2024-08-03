@@ -30,6 +30,9 @@ npm install
 ### Start the application:
 npm start
 
+##Link
+https://grocery-list-app-nv.netlify.app
+
 
 ## License
 This project is licensed under the MIT License, supporting free usage and distribution while encouraging modifications as per user needs.
